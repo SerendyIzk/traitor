@@ -1,4 +1,4 @@
-# Traitor CHANGES ON SECOND TESTBRANCH
+# Traitor CONFLICT RESOLVED
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
